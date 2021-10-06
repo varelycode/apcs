@@ -34,6 +34,7 @@ results into a compiler.
   statement execution order in a code segment
   without method calls (other than output).
 - Identify errors in program code
+  TODO: Get practice questions for the above
 
 Essential Knowledge
 
